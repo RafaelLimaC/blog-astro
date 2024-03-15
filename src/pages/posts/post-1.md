@@ -1,28 +1,29 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Minha Primeira Postagem no Blog'
+title: 'My First Blog Post'
 pubDate: 2022-07-01
-description: 'Esta é a primeira postagem do meu novo blog Astro.'
-author: 'Aluno de Astro'
+description: "This is the first post of my new Astro blog."
+author: "Astro Learner"
 image:
-    url: 'https://docs.astro.build/assets/full-logo-light.png'
-    alt: 'A logo completa do Astro.'
-tags: ["astro", "blogueirando", "aprendendo em público"]
+  url: "https://docs.astro.build/assets/full-logo-light.png"
+  alt: "The Astro logo with the word One."
+tags: ["astro", "blogging", "learning in public"]
 ---
-# Minha Primeira Postagem no Blog
 
-Publicado em: 2022-07-01
+# My First Blog Post
 
-Bem-vindo ao meu _novo blog_ sobre aprendendo Astro! Aqui, eu irei compartilhar minha jornada de aprendizado enquanto eu construo um novo website.
+Published on: 2022-07-01
 
-## O que eu realizei
+Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
-1. **Instalando Astro**: Primeiro, eu criei um novo projeto Astro e configurei minhas contas online.
+## What I've accomplished
 
-2. **Fazendo Páginas**: E então eu aprendi como fazer páginas criando novos arquivos `.astro` e os colocando na pasta `src/pages/`.
+1. **Installing Astro**: First, I created a new Astro project and set up my online accounts.
 
-3. **Fazendo Postagens no Blog**: Esta é minha primeira postagem no blog! Eu agora tenho páginas Astro e postagens em Markdown!
+2. **Making Pages**: I then learned how to make pages by creating new `.astro` files and placing them in the `src/pages/` folder.
 
-## O que vem a seguir
+3. **Making Blog Posts**: This is my first blog post! I now have Astro pages and Markdown posts!
 
-Eu irei completar o tutorial do Astro, e então continuarei adicionando mais postagens. Olhe por aqui para o que vem a frente.
+## What's next
+
+I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
